@@ -76,7 +76,7 @@ This repository contains a Python script designed to automate trading strategy i
 - **Run the Script**:  
   Use the following command to execute the script:
   ```bash
-  python forex_trading_script.py
+  python MT5_v10-2_30_2days_Regression.py
 
 Install dependencies using pip:
 ```bash
